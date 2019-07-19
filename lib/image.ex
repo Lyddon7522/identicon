@@ -3,6 +3,6 @@ defmodule Identicon.Image do
   Data model for Identicon
   """
 
-  defstruct hex: nil, color: nil
+  defstruct hex: nil, color: nil, grid: nil
 
 end
