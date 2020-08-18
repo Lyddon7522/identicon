@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**Exlir Identicon Github sample**
 
 ## Installation
 
