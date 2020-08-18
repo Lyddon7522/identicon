@@ -1,6 +1,6 @@
 # Identicon
 
-**Exlir Identicon Github sample**
+**Elxir Identicon Github sample**
 
 ## Installation
 
