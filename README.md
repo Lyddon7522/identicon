@@ -1,6 +1,6 @@
 # Identicon
 
-**Elxir Identicon Github sample**
+**Generates Identicon image**
 
 ## Installation
 
